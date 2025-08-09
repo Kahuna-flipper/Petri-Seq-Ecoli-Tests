@@ -1,0 +1,6 @@
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fna
+*.bam
+*.bt2
